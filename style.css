@@ -11,11 +11,6 @@ body {
   padding-top: 65px;
 }
 
-main {
-  display: flex;
-
-}
-
 nav {
   display: flex;
   justify-content: space-between;
@@ -46,6 +41,13 @@ ul li a:hover {
   font-weight: bold;
   opacity: 1;
 }
+
+main {
+  display: flex;
+
+}
+
+
 
 h1,
 ul {
@@ -110,6 +112,7 @@ footer a {
 }
 
 #balls {
+  position: absolute;
   bottom: 0;
   right: 0;
 }
