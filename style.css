@@ -6,12 +6,13 @@ body {
 }
 
 .page {
+  display: flex;
   width: 1000px;
   margin: 0 auto;
   padding-top: 65px;
 }
 
-section {
+main {
   display: flex;
   align-items: center
 }
