@@ -9,10 +9,14 @@ body {
 }
 
 .page {
-  display: flex;
   width: 600px;
   margin: 0 auto;
   padding-top: 65px;
+}
+
+main {
+  display: flex;
+  align-items: center
 }
 
 nav {
