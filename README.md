@@ -2,9 +2,9 @@
 
 <h2 align="center">  📝 Desafio (Corrigindo bugs 02) </h2>
 
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02.
+Nesse desafio, recebemos um código com o projeto desenvolvido durante as aulas da Fase 02.
 
-O código sofreu algumas alterações nos principais pontos abordados nessa fase e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que correta.
+O código sofreu algumas alterações nos principais pontos abordados nessa fase e como podemos ver na imagem abaixo, ele não está mais da mesma forma.
 
 Agora é só encarar esse desafio e deixar o site com a mesma carinha de antes! 💜
 
