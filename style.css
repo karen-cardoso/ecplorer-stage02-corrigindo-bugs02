@@ -11,7 +11,7 @@ body {
   padding-top: 65px;
 }
 
-main {
+section {
   display: flex;
   align-items: center
 }
