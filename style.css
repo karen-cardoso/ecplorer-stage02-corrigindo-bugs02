@@ -44,7 +44,8 @@ ul li a:hover {
 
 main {
   display: flex;
-
+  justify-content: space-between;
+  gap: 102px;
 }
 
 ul,
