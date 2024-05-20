@@ -81,10 +81,11 @@ button {
 
   background: #69B99D;
   border: 0;
-  padding: 17px 32px;
+  padding: 14px 32px 15px 32px;
 
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
   gap: 10px;
 
   border-radius: 4px;
