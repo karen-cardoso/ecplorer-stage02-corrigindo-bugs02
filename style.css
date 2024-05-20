@@ -59,7 +59,6 @@ h1 {
 
   font-weight: normal;
 
-  width: 490px;
 }
 
 h1 span {
@@ -73,6 +72,8 @@ section p {
   color: #7d7987;
 
   margin: 40px 0;
+
+  width: 438px;
 }
 
 button {
